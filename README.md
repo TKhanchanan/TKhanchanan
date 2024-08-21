@@ -4,8 +4,6 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpjd3p1aHcxY3NyMGg5NDk3bmV5eWg4dGJ2ajBjcW1sY3A3aGh6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gMirGc1JyjoyY/giphy.webp" alt="Pixel Art Banner" width="100%"/>
 </p>
 
-<br>
-
 <h2 align="center">🌸 About Me 🌸</h2>
 
 <p align="center">
