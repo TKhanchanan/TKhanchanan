@@ -19,8 +19,6 @@
   <li>🧠 Always exploring new technologies and frameworks</li>
 </ul>
 
-<br>
-
 <h2 align="center">🛠️ Technologies & Tools 🛠️</h2>
 
 <h4 align="start">Languages & Frameworks</h4>
@@ -56,5 +54,3 @@
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" style="margin: 0 10px;" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" style="margin: 0 10px;" />
 </p>
-
-<br>
