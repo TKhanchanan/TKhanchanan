@@ -14,7 +14,7 @@
 </p>
 
 <ul style="text-align: center; list-style-type: none;">
-  <li>🌱 Currently learning <strong>Network Security</strong></li>
+  <li>🌱 Currently learning <strong>Three.js</strong></li>
   <li>💼 Open to collaboration on interesting projects</li>
   <li>🧠 Always exploring new technologies and frameworks</li>
 </ul>
@@ -53,4 +53,6 @@
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap5" style="margin: 0 10px;" />
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" style="margin: 0 10px;" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" style="margin: 0 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/line-me.png" alt="Line" style="margin: 0 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" style="margin: 0 10px;" />
 </p>
